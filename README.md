@@ -3,6 +3,8 @@ Regularization paths for MCP and SCAD penalized regression models Use ncvreg Wit
 
 Fit an MCP- or SCAD-penalized regression path Use ncvreg With (In) R Software
 
+https://www.youtube.com/watch?v=mc7XItpIsJ0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
